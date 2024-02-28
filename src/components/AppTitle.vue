@@ -9,5 +9,8 @@
 </template>
 
 <style>
-
+    h1 {
+        display: flex;
+        justify-content: center;;
+    }
 </style>
